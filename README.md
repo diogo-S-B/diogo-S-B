@@ -1,7 +1,6 @@
 ### Ola meu nome é Diogo dos Santos Batista 👋
 
 
-**Diogo-Batista1/Diogo-Batista1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 Atualmente estudando: Python, JavaScript e MySQL
 - 💬 Cursando engenharia de software
 - 📫 E-mail: diogoba31@hotmail.com ou diguroos@hotmail.com
