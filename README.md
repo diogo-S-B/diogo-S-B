@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estudando: Python, JavaScript e MySQL
-- 💬 Cursando engenharia de software
+- 💬 Cursando engenharia de software / 4° semestre
 - 📫 E-mail: diogoba31@hotmail.com ou diguroos@hotmail.com
 
 
