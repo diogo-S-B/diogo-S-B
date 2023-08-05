@@ -1,7 +1,8 @@
 ### Ola meu nome é Diogo dos Santos Batista 👋
 
 
-- 🔭 Atualmente estudando: Python, JavaScript e MySQL
+- ✨ Habilidades: Python, SQL, JS.
+- 🔭 Atualmente estudando: JS/CSS/HTML
 - 💬 Cursando engenharia de software / 4° semestre
 - 📫 E-mail: diogoba31@hotmail.com ou diguroos@hotmail.com
 
