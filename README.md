@@ -2,7 +2,7 @@
 
 
 - ✨ Habilidades: Python, SQL, JS.
-- 🔭 Atualmente estudando: Python e JS
+- 🔭 Atualmente estudando: Python e SQL
 - 💬 Cursando engenharia de software / 5° semestre
 - 📫 E-mail: diogoba31@hotmail.com ou diguroos@hotmail.com
 
