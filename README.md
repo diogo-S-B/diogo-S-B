@@ -1,8 +1,9 @@
 ### Ola meu nome é Diogo dos Santos Batista 👋
 
 
-- ✨ Habilidades: Python, SQL, JS.
-- 🔭 Atualmente estudando: Python e SQL
+- ✨ Habilidades: Python, SQL, JS, PHP.
+- 💥 Frameworks: Laravel, FastAPI, Django, VUE, Quasar
+- 🔭 Atualmente Trabalhando com: Javascript, Python, PHP e SQL
 - 💬 Cursando engenharia de software / 8° semestre
 - 📫 E-mail: diogoba31@hotmail.com ou diguroos@hotmail.com
 
